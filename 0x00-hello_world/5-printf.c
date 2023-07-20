@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *main - entery point 
+ *main - entery point
  *
  *Description: prints with proper grammar, but the outcome is a piece of art,
  *
