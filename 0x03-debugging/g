@@ -1,0 +1,4 @@
+#!/bin/bash
+git add ..
+git commit -m "one step away from 5ra"
+git push
