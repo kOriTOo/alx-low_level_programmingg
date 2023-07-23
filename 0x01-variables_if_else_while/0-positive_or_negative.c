@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/* 
+/*
  * main - Enter point
  *
  * Description: prints if number is positive, negetive or zero
