@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+/**
+ * main - Enter point
+ *
+ * Description: prints 1,2,3,4,5,6,7,8,9
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int a;
