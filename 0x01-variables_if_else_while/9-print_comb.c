@@ -4,8 +4,6 @@
  *
  * Description: prints all possible combinations
  *
- *
- *
  * Return: Always 0 (Success)
  */
 int main(void)
