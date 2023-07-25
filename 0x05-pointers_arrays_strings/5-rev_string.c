@@ -18,7 +18,7 @@ void rev_string(char *s)
 }
 
 /**
- * strlen - returns the length of a string
+ * _strlen - returns the length of a string
  * @s: string
  * Return: returns lenght;
  */
